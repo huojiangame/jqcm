@@ -1,2 +1,2 @@
 # jqcm
-jqcm game
+jqcm game1
